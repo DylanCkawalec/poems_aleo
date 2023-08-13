@@ -1,0 +1,10 @@
+{
+    "program": "poemsdemo1nqvlm.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp9BLEScyb82o2AA6E7W3BHe7iqHVffcjLTMv3JEww1x2s", 
+        "address": "aleo1nqvlmgdat7n07tmjp33apl07c2tlw2u420qwzqvjr6qj2h4yz5rs54akpy" 
+    },
+    "license": "MIT"
+}
