@@ -1,0 +1,10 @@
+{
+    "program": "randomnesspoems1reyza.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "license": "MIT", 
+    "development": {
+        "private_key": "APrivateKey1zkpDEDai5gCZQdimuw9dvzkLC83rmrU6taw9Q3pxp7JkptF", 
+        "address": "aleo1reyzaanlhtjzhzpcpt79gawdd2v02rwnr2eks72n5tqe48kafczqr6m79r" 
+    }
+}
